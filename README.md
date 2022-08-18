@@ -7,3 +7,7 @@ cd
 exit  
 help  
 history  
+
+## How to run
+
+Run the shell.c file  
